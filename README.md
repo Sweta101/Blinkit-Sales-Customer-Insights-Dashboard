@@ -31,29 +31,29 @@ Regular: $776.32K
 
 Regular-fat items dominate sales, but low-fat shows potential growth.
 
-Sales by Item Type
+**Sales by Item Type**
 
 Top categories: Fruits & Vegetables ($0.18M), Snack Foods ($0.18M), Household ($0.14M).
 
 Niche categories like seafood and breakfast show lower revenue but may represent untapped opportunities.
 
-Sales by Outlet Establishment
+**Sales by Outlet Establishment**
 
 Performance peaked in 2018 ($205K), with steady sales across other years.
 
 Consistent sales from long-standing outlets suggest stable customer loyalty.
 
-Outlet Size Analysis
+**Outlet Size Analysis**
 
 Tier 3 outlets lead with $472K sales, followed by Tier 2 ($393K) and Tier 1 ($336K).
 
 Larger outlets drive more sales, highlighting the importance of expansion strategy.
 
-Sales by Outlet Location
+**Sales by Outlet Location**
 
 Tier 3 outlets are the strongest contributors, suggesting regional differences in consumer demand.
 
-Outlet Type Comparison
+**Outlet Type Comparison**
 
 Supermarket Type 1 dominates with $787K sales, while grocery stores and smaller supermarkets lag behind.
 
